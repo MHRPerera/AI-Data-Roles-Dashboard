@@ -1,4 +1,4 @@
-<img width="1546" height="626" alt="Screenshot 2025-10-25 123158" src="https://github.com/user-attachments/assets/9d0a613d-ab54-4f9e-88c7-6c54ffb553de" /># 📊 AI & Data Roles Insights Dashboard
+## 📊 AI & Data Roles Insights Dashboard
 
 This Excel project analyzes global AI and Data job market trends (2023–2025) through an interactive dashboard built with PivotTables, Charts, and Slicers.
 
@@ -35,12 +35,10 @@ It helps identify which roles and experience levels dominate the market and how 
 
 ## 📷 Dashboard Preview
 
-
-<img width="1546" height="626" alt="Screenshot 2025-10-25 123158" src="https://github.com/user-attachments/assets/47fba0ae-92f2-4480-94bc-52e8af995535" />
-<img width="1858" height="619" alt="Screenshot 2025-10-25 140715" src="https://github.com/user-attachments/assets/77710454-82b4-402d-af4f-f52a66eab759" />
-<img width="1896" height="644" alt="Screenshot 2025-10-25 162555" src="https://github.com/user-attachments/assets/50e7d48a-96bb-4b1e-8b8b-bf6809b9246d" />
-<img width="1919" height="644" alt="<img width="1919" height="651" alt="Screenshot 2025-10-25 163148" src="https://github.com/user-attachments/assets/68a9a322-a2c8-4a56-ae56-963d5c4b7504" />
-
+<img width="1919" height="644" alt="Screenshot 2025-10-25 162617" src="https://github.com/user-attachments/assets/4cdc83a7-b892-4521-9b03-ac45e9dce78a" />
+<img width="1919" height="651" alt="Screenshot 2025-10-25 163148" src="https://github.com/user-attachments/assets/af029644-e000-4d3a-b5da-730cbf9f01c9" />
+<img width="1919" height="647" alt="Screenshot 2025-10-25 163209" src="https://github.com/user-attachments/assets/022b99cb-4537-4d86-9158-20e13be5b267" />
+<img width="1919" height="648" alt="Screenshot 2025-10-25 163225" src="https://github.com/user-attachments/assets/81f70565-fd53-4510-b5c1-19c69d648240" />
 
 ---
 
